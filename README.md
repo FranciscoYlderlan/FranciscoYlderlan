@@ -160,16 +160,13 @@ CSV-driven bulk price updater with a validation layer that refuses bad data befo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FranciscoYlderlan&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00E5A0&icon_color=38BDF8&text_color=C9D1D9&ring_color=00E5A0" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoYlderlan&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00E5A0&text_color=C9D1D9" alt="Top languages" />
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=FranciscoYlderlan&bg_color=0D1117&color=C9D1D9&title_color=00E5A0&line=00E5A0&point=7DFFD1&area=true&area_color=00E5A0&hide_border=true" alt="Contribution activity" />
+<img width="100%" src="./assets/stats.svg" alt="GitHub statistics - commits, repositories, stars, followers and language distribution" />
 
 <br/>
 
-<img width="98%" src="https://raw.githubusercontent.com/FranciscoYlderlan/FranciscoYlderlan/output/snake.svg" alt="Contribution snake" />
+<img width="100%" src="https://raw.githubusercontent.com/FranciscoYlderlan/FranciscoYlderlan/output/snake.svg" alt="Contribution snake" />
+
+<sub>Generated in-repo by <a href="./scripts/gh-stats.mjs"><code>scripts/gh-stats.mjs</code></a> and refreshed daily by GitHub Actions - no third-party widget to go down.</sub>
 
 </div>
 
