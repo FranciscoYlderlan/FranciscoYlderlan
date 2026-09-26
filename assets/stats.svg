@@ -11,7 +11,7 @@
 
   <rect x="6" y="6" width="988" height="288" rx="14" fill="url(#sp)" stroke="#1F2937" stroke-width="1.5"/>
   <text class="m" x="30" y="42" font-size="12.5" fill="#6E7681" letter-spacing="2">$ gh api /users/FranciscoYlderlan --stats</text>
-  <text class="m" x="970" y="42" font-size="11" fill="#30363D" text-anchor="end">synced 2026-09-25</text>
+  <text class="m" x="970" y="42" font-size="11" fill="#30363D" text-anchor="end">synced 2026-09-26</text>
   <line x1="30" y1="58" x2="970" y2="58" stroke="#1A2230"/>
   <line x1="490" y1="80" x2="490" y2="270" stroke="#1A2230"/>
 
